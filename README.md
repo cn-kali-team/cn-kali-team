@@ -10,12 +10,7 @@
 
 ### GitHub Stats
 
-![Kali-Team's GitHub Stats](github-stats.svg)
+| <a href="https://blog.kali-team.cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cn-kali-team&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="Kali-Team's github stats" /></a> | <a href="https://blog.kali-team.cn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cn-kali-team&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
+| ------------- | ------------- |
 
-![Kali-Team's GitHub Trophies](github-trophy.svg)
-
-<div>
-  <img src="github-stats-full.svg" />
-  <img src="github-langs.svg" />
-</div>
 
