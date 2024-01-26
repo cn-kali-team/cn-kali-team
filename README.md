@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**cn-kali-team/cn-kali-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✏️ Read my blog on https://blog.kali-team.cn
+- 📫 How to reach me: root@kali-team.cn
 
-Here are some ideas to get you started:
+### Recent Posts
+<!-- BLOG-POST-LIST:START -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:END -->
+
+### GitHub Stats
+
+![Kali-Team's GitHub Stats](github-stats.svg)
+
+![Kali-Team's GitHub Trophies](github-trophy.svg)
+
+<div>
+  <img src="github-stats-full.svg" />
+  <img src="github-langs.svg" />
+</div>
+
